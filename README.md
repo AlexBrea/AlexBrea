@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-My name is _Alex Brea_, I'm a frontend developer from Granada, Spain.
+My name is _Alex Brea_, I'm a backend developer from Granada, Spain.
 
 - 🔭 I’m currently working on: It's a secret ;)
-- 🌱 I’m currently learning: Any technology focused on frontend web development, although, currently, I am more focused on improving my knowledge in JS and learning ReactJS.
-- 👯 I’m looking to collaborate on:Any project that is related to frontend web development does not matter so much in what, if not how much can be learned from it.
-- 💬 Ask me about: Frontend stuff and testing.
-- 📫 How to reach me: @devbrea/@brea___ (twitter accounts name).
+- 🌱 I’m currently learning: Any technology focused on backend web development.
+- 💬 Ask me about: Backend/WordPress/Laravel stuff and testing.
+- 📫 How to reach me: @devbrea (twitter accounts name).
 - 😄 Pronouns: (He/Him).
 - ⚡ Fun fact: I love the animals! 😝
 
